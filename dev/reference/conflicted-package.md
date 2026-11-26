@@ -10,7 +10,7 @@ to use.
 ## Resolving conflicts
 
 To permanently resolve a conflict within a session, use
-conflict_prefer():
+[`conflict_prefer()`](https://conflicted.r-lib.org/dev/reference/conflict_prefer.md):
 
 
     library(conflicted)
